@@ -1,0 +1,9 @@
+body{
+    overflow-x: hidden;
+}
+.main{
+    display: none;
+}
+span:hover div{
+    display: block;
+}
